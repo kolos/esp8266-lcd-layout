@@ -1,0 +1,5 @@
+#define SERIAL_BAUD_RATE 115200
+
+#define DHCP_CLIENTNAME "ESP8266-LCD"
+#define WIFI_SSID       ""
+#define WIFI_PASSWORD   ""
